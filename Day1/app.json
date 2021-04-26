@@ -1,0 +1,12 @@
+{
+  "name": "ecommerce2",
+  "displayName": "ecommerce2",
+  "expo": {
+    "name": "ecommerce2",
+    "slug": "ecommerce2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
